@@ -1,4 +1,4 @@
-# React Props
+# React Global State
 
 In this exercise, you are going to practice using global state via a [Redux](https://redux.js.org/)-like store.
 
