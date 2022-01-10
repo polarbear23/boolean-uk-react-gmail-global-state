@@ -8,7 +8,7 @@ import { StoreContext } from './store'
 
 function App() {
   const [state, dispatch] = useReducer(rootReducer, initialState);
-  const [hideRead, setHideRead] = useState(false)
+  const [hideRead, setHideRead] = useState(false)//
 
   return (
     <div className="app">
